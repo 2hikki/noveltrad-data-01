@@ -1,0 +1,88 @@
+{
+  "titulo_original": "The Reversing Girl Who Challenges Origin's Benevolence",
+  "titulo_es": "La chica reversible que desafía la benevolencia de Origin",
+  "tono_narrativo": "Fantasía oscura con tintes de drama psicológico, romance sutil y acción de novelas ligeras",
+  "resumen_trama": "Flum Apricot, una chica con todos sus atributos y estadísticas en cero y una habilidad inútil llamada Reversión, es expulsada y vendida como esclava por el grupo del Héroe debido a su supuesta inutilidad. Tras sobrevivir a un calvario en los suburbios gracias a su despertar latente, se une a la esclava Milkit y busca ganarse la vida como aventurera en la Capital, descubriendo una conspiración oscura relacionada con la Iglesia de Origin y las verdaderas intenciones de sus antiguos compañeros.",
+  "personajes": [
+    {
+      "nombre": "Flum Apricot",
+      "genero_gramatical": "Femenino",
+      "rol_y_edad": "Protagonista principal, excompañera del Héroe y aventurera novata. 16 años.",
+      "registro_habla": "Juvenil coloquial (tú), emocionalmente honesta y a veces autocrítica",
+      "tratamiento_con_otros": "Trata de tú a la gran mayoría. Mantiene un trato de ama con Milkit, aunque busca la cercanía afectiva.",
+      "tics_y_estilo": "Tiende a repetir 'even so' (aun así) en su mente como mantra de supervivencia; usa expresiones directas cuando se enoja."
+    },
+    {
+      "nombre": "Milkit",
+      "genero_gramatical": "Femenino",
+      "rol_y_edad": "Exesclava, ahora sirvienta y compañera inseparable de Flum. 14 años.",
+      "registro_habla": "Formal sumiso que evoluciona gradualmente hacia una confianza más cálida.",
+      "tratamiento_con_otros": "Trata a Flum estrictamente como 'Master' (Maestra/Amo) al principio, añadiendo gradualmente afecto genuino.",
+      "tics_y_estilo": "Se oculta tras vendas debido a una afección cutánea; tiende a autodepreciarse por su pasado de esclavitud."
+    },
+    {
+      "nombre": "Jean Inteige",
+      "genero_gramatical": "Masculino",
+      "rol_y_edad": "El 'Sabio Solitario', mago supremo y miembro del grupo del Héroe. 28 años.",
+      "registro_habla": "Aristocrático, frío, despectivo y sumamente arrogante.",
+      "tratamiento_con_otros": "Trata a los plebeyos y débiles con absoluto desdén, exigiéndoles sumisión total.",
+      "tics_y_estilo": "Utiliza vocabulario elevado pero cargado de veneno verbal hacia quienes considera inferiores."
+    },
+    {
+      "nombre": "Cyrill Sweetchka",
+      "genero_gramatical": "Femenino",
+      "rol_y_edad": "El 'Héroe de la Salvación', líder del grupo. 16 años.",
+      "registro_habla": "Juvenil pero apesadumbrado por el peso de su deber.",
+      "tratamiento_con_otros": "Trata de tú a sus compañeros, aunque atraviesa una crisis emocional tras la desaparición de Flum.",
+      "tics_y_estilo": "Silenciosa, reflexiva y propensa a la melancolía bajo presión."
+    },
+    {
+      "nombre": "Sara Anvilen",
+      "genero_gramatical": "Femenino",
+      "rol_y_edad": "Joven sacerdotisa de la Iglesia de Origin con gran talento. 10 años.",
+      "registro_habla": "Infantil, enérgica y modesta.",
+      "tratamiento_con_otros": "Utiliza la muletilla '-su' al hablar y trata a todos con respeto, llamando 'Oneesan' a Flum y Milkit.",
+      "tics_y_estilo": "Muletilla constante 'su' al final de las oraciones."
+    },
+    {
+      "nombre": "Eterna Rinebow",
+      "genero_gramatical": "Femenino",
+      "rol_y_edad": "La 'Bruja Eterna', experta en magia y alquimia. Edad desconocida (aparenta ser joven).",
+      "registro_habla": "Tranquila, desinteresada y mordaz.",
+      "tratamiento_con_otros": "Corta y directa con todos, sin mostrar reverencia ni por los sabios ni por los héroes.",
+      "tics_y_estilo": "Suele burlarse de la pretenciosidad de Jean."
+    }
+  ],
+  "glosario": [
+    {
+      "termino_en": "Reversal",
+      "traduccion_es": "Reversión",
+      "categoria": "Magia/Habilidad",
+      "nota_contexto": "Atributo raro de Flum que invierte los efectos de las estadísticas y maldiciones, volviéndolos positivos."
+    },
+    {
+      "termino_en": "Soul-Devouring Zweihander",
+      "traduccion_es": "Zweihander Devoradora de Almas",
+      "categoria": "Objeto",
+      "nota_contexto": "Espada de dos manos de nivel Épico maldita que absorbe el odio y reduce estadísticas, pero que Flum puede usar gracias a su habilidad."
+    },
+    {
+      "termino_en": "Origin",
+      "traduccion_es": "Origin",
+      "categoria": "Título",
+      "nota_contexto": "Dios de la Creación venerado en el reino humano a través de la Iglesia de Origin."
+    },
+    {
+      "termino_en": "Chiaraly",
+      "traduccion_es": "Chiaraly",
+      "categoria": "Objeto",
+      "nota_contexto": "Flor azul utilizada para fabricar medicina prohibida por la Iglesia."
+    },
+    {
+      "termino_en": "Prana Shaker Imitation",
+      "traduccion_es": "Imitación de Sacudida de Prana",
+      "categoria": "Magia/Habilidad",
+      "nota_contexto": "Técnica de artes marciales derivada de los Caballeros Reales para canalizar energía vital."
+    }
+  ]
+}
